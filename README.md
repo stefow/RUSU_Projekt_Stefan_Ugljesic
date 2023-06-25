@@ -15,3 +15,4 @@ Svako iduće treniranje biti će spremljeno u isti folder.
 Pokretanje unity programa se vrši pokretanjem na Unity aplikacija\Assets\Scenes\Main.unity
 # SKRIPTE KORIŠTENE ZA IZRADU APLIKACIJE
 C# i Unity Engine
+Sve potrebne skripte se nalaze na putanji Unity aplikacija\Assets\Scripts
