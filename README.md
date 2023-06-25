@@ -10,7 +10,7 @@ Koraci za učitavanje već treniranih modela:
 * Ne zaboraviti promjeniti naziv korisnika u gore navedenoj putanji
 * Ponovno pokrenuti program "CarSimulation.exe"
 * Dodani modeli bi sada trebali biti vidljivi prilikom klika na "Test model" gumb
-Svako iduće treniranje biti će spremljeno u isti folder.
+* Svako iduće treniranje biti će spremljeno u isti folder.
 # POKRETANJE UNITY APLIKACIJE
 Pokretanje unity programa se vrši pokretanjem na Unity aplikacija\Assets\Scenes\Main.unity
 # SKRIPTE KORIŠTENE ZA IZRADU APLIKACIJE
